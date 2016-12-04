@@ -1,0 +1,83 @@
+html,body,ul,li,p,a,div{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-image: url("darksouls101.jpg");	
+}
+
+li{
+	display:inline;
+	float:right;
+}
+
+li a {
+	display:block;
+	background-color:#fff;
+	text-align:center;
+	text-decoration:none;
+	padding: 14px 16px;
+}
+
+nav{
+	background-color:#fff;
+	height:53px;
+	position:absolute;
+	width:100%;
+	top:0%;
+	left:0%;
+}
+
+footer{
+	background-color:#fff;
+	position:absolute;
+	width:100%;
+	height:400px;
+	bottom:0%;
+	text-align:center;
+	font-family: Verdana;
+	
+}
+
+#green{
+	color: #4ce600;
+}
+
+.black{
+	color:#000;
+}
+
+#div1{
+	color:#fff;
+	background-color:#000;
+	position:absolute;
+	display:block;
+	text-align:right;
+	font-size:24px;
+	right:8%;
+	top:21.3%;
+}
+
+#div2{
+	color:#fff;
+	background-color:#000;
+	position:absolute;
+	display:block;
+	text-align:right;
+	font-size:24px;
+	right:8%;
+	top:25%;
+}
+
+#div3{
+	color:#fff;
+	background-color:#000;
+	position:absolute;
+	display:block;
+	text-align:right;
+	font-size:24px;
+	right:8%;
+	top:29%;
+}
+

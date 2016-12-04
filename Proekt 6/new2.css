@@ -1,0 +1,110 @@
+html, body , ul , li ,p , a , div{
+	margin:0;
+	padding:0;
+}
+
+body {
+	background-color:#ac00e6;
+}
+
+nav{
+	background-color: #fff;
+	width: 90%;
+	height: 60px;
+	position: absolute;
+	top: 0%;
+	left: 5%;
+	right: 5%;
+	
+}
+
+ul{
+	list-style-type:none;
+	text-decoration:none;
+	overflow:hidden;
+}
+
+li{
+	display:inline;
+	float:right;
+	
+}
+
+li a {
+	display:block;
+	background-color:#fff;
+	text-align:center;
+	text-decoration:none;
+	padding: 14px 16px;
+	color:#b3b3b3;
+	
+}
+#home{
+	background-color:#ac00e6;
+}
+
+main{
+	background-image:url("walp.jpg");
+	height:1000px;
+	width:90%;
+	left: 5%;
+	right: 5%;
+	top:7.8%;
+	position:absolute;
+	background-size:1520px 320px;
+	background-repeat:no-repeat;
+}
+
+footer{
+	background-color:#fff;
+	width:90%;
+	left: 5%;
+	right: 5%;
+	position:absolute;
+	height:400px;
+	bottom:0%;
+}
+
+div{
+	top:20%;
+	position:absolute;
+	text-align:center;
+	color:#fff;
+	display:block;
+	width:20%;
+	
+}
+
+#div1{
+	background-color:#8600b3;
+	position:absolute;
+	left:10%;
+}
+
+#div2{
+	background-color:#9900cc;
+	left:30%;
+	position:absolute;
+}
+
+#div3{
+	background-color:#ac00e6;
+	position:absolute;
+	left:50%
+}
+
+#div4{
+	background-color:#bf00ff;
+	position:absolute;
+	left:70%;
+}
+
+#div5{
+	background-color:rgba(0,0,0,.4);
+	position:absolute;
+	
+	top:15%;
+	left:70%;
+	
+}
+

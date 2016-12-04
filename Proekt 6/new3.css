@@ -1,0 +1,144 @@
+html, body , ul , li ,p , a , div{
+	margin:0;
+	padding:0;
+}
+
+header{
+	background-image:url("walpi.jpg");
+	position:absolute;
+	width:100%;
+	height:130px;
+	
+}
+
+nav{
+	background-color:#3366ff;
+	width: 90%;
+	height: 50px;
+	position: absolute;
+	top: 10.4%;
+	left: 5%;
+	right: 5%;
+	
+}
+
+ul{
+	list-style-type:none;
+	text-decoration:none;
+	overflow:hidden;
+	
+}
+
+li{
+	display:inline;
+	float:left;
+	
+	
+}
+
+li a {
+	display:block;
+	text-align:center;
+	text-decoration:none;
+	padding: 14px 46px;
+	color:#b3b3b3;
+	
+}
+
+div{
+	top:20%;
+	position:absolute;
+	text-align:left;
+	color:#000;
+	display:block;
+	width:20%;
+	
+}
+
+img{
+	height:200px;
+	width:90%;
+}
+
+#div1{
+	color:#000;
+	position:absolute;
+	left:10%;
+	
+}
+
+#div2{
+	color:#000;
+	left:30%;
+	position:absolute;
+}
+
+#div3{
+	color:#000;
+	position:absolute;
+	left:50%
+}
+
+#div4{
+	color:#000;
+	position:absolute;
+	left:70%;
+}
+
+aside{
+	background-color:#f2f2f2;
+	position:absolute;
+	width:100%;
+	height:250px;
+	bottom:0%;
+}
+
+#div5{
+	text-align:center;
+	color:#000;
+	position:absolute;
+	left:10%;
+	
+}
+
+#div6{
+	text-align:center;
+	color:#000;
+	left:30%;
+	position:absolute;
+}
+
+#div7{
+	text-align:center;
+	color:#000;
+	position:absolute;
+	left:50%
+}
+
+#div8{
+	text-align:center;
+	color:#000;
+	position:absolute;
+	left:70%;
+}
+
+.button{
+	background-color:#3366ff;
+	color:#fff;
+	font-family:Verdana;
+}
+
+footer{
+	background-color:#3366ff;
+	position:absolute;
+	width:100%;
+	height:60px;
+	bottom:0%;
+	
+}
+
+#p1{
+	position:absolute;
+	left:35%;
+	top:35%;	
+}
